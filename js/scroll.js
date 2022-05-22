@@ -1,0 +1,1 @@
+document.querySelectorAll(".scroll").style.overflow = "hidden";
